@@ -42,3 +42,5 @@ HEADERS += ruleparser.h \
     repository.h \
     svn.h \
     CommandLineParser.h \
+    
+QMAKE_CXXFLAGS += -std=c++11
