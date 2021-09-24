@@ -64,4 +64,3 @@ jobs:
         with:
           name: svn2git
           path: /usr/local/svn2git/svn-all-fast-export
-      retention-days: 5
